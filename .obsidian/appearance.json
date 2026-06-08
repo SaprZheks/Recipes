@@ -1,0 +1,13 @@
+{
+  "theme": "moonstone",
+  "accentColor": "#ff9500",
+  "enabledCssSnippets": [
+    "callouts light",
+    "task",
+    "tables",
+    "Images position",
+    "preview"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
+}
